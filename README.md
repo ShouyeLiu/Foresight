@@ -12,7 +12,7 @@ install.packages("Foresight")
 
 # In order to install the most recent version of this package, you'll need to use the "devtools"-package
 install.packages("devtools")
-devtools::install_github("gertstulp/Foresight")
+devtools::install_github("ShouyeLiu/Foresight")
 
 library("Foresight")
 ```
