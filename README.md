@@ -19,6 +19,8 @@ Installation
 install.packages("devtools")
 
 #currently, this package depends on  ggplot2, plotly.
+install.packages("shiny")
+install.packages("plotly")
 
 devtools::install_github("ShouyeLiu/Foresight")
 
